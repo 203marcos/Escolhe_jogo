@@ -1,3 +1,6 @@
+##um jogo de advinhar o numero por meio do python3...
+
+
 import random
 
 print("*********************************")
